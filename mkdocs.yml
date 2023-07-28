@@ -1,0 +1,16 @@
+site_name: Resumos Anpuh (2013 - 2023)
+repo_url: https://github.com/ericbrasiln/notas-musicais
+repo_name: ericbrasiln/resumos-anpuh
+edit_uri: tree/master/docs/
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/logo.png
+  favicon: assets/logo.png
+
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css
